@@ -1,4 +1,4 @@
 # DEMO
-THIS IS MY FIRST GIT REPOSITORY
+this is my first git repository
 <br>
 AUTHOR-KARTIK SHARMA
